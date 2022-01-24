@@ -1,12 +1,12 @@
 # machine-learning---ANU-22-01-2022
 - 22-01-2022(morning session)
-- goto meeting link: https://transcripts.gotomeeting.com/#/s/f3cdec22cf02c555ec6db68c2f068aaf8eb9623705fd48ec2bc0936939b19824
+   - goto meeting link: https://transcripts.gotomeeting.com/#/s/f3cdec22cf02c555ec6db68c2f068aaf8eb9623705fd48ec2bc0936939b19824
 - afternoon session
-- goto meeting link:https://transcripts.gotomeeting.com/#/s/f65ca2ed82a81e935962b096503119d392f949fec01b68f51176e75121c8b4b9
-- second link:https://transcripts.gotomeeting.com/#/s/bb1163ea61bbb8b740edb171ebe38cb8dd0f3bb33d6ff00edde3f1388c585c9b
+   - goto meeting link:https://transcripts.gotomeeting.com/#/s/f65ca2ed82a81e935962b096503119d392f949fec01b68f51176e75121c8b4b9
+   - second link:https://transcripts.gotomeeting.com/#/s/bb1163ea61bbb8b740edb171ebe38cb8dd0f3bb33d6ff00edde3f1388c585c9b
 - 23-01-2022(morning session)
-- goto meeting link: https://transcripts.gotomeeting.com/#/s/4c93c338921c71c9262c47aba531617ea699554bdd087ac2edfe58d4bf82785e
-- afternoon link:https://transcripts.gotomeeting.com/#/s/e7f91d07bbbd6aacea6b601412bcc26a31b0ee5b86b1da42ac166e54bc28f06d
+   - goto meeting link: https://transcripts.gotomeeting.com/#/s/4c93c338921c71c9262c47aba531617ea699554bdd087ac2edfe58d4bf82785e
+   - afternoon link:https://transcripts.gotomeeting.com/#/s/e7f91d07bbbd6aacea6b601412bcc26a31b0ee5b86b1da42ac166e54bc28f06d
 - 24-01-2022(morning session)
-- goto meeting link: https://transcripts.gotomeeting.com/#/s/4707b0a09e316520dd534677921a3ee70f27c4e7bee17aae775481c102fe1f08
-- afternoon session link:https://transcripts.gotomeeting.com/#/s/4743afa1bbff50b0128b0190a3d6ad099a32c9ada2df37b2e2f6c61c9915ff83
+   - goto meeting link: https://transcripts.gotomeeting.com/#/s/4707b0a09e316520dd534677921a3ee70f27c4e7bee17aae775481c102fe1f08
+   - afternoon session link:https://transcripts.gotomeeting.com/#/s/4743afa1bbff50b0128b0190a3d6ad099a32c9ada2df37b2e2f6c61c9915ff83
