@@ -10,3 +10,17 @@
 - 24-01-2022(morning session)
    - goto meeting link: https://transcripts.gotomeeting.com/#/s/4707b0a09e316520dd534677921a3ee70f27c4e7bee17aae775481c102fe1f08
    - afternoon session link:https://transcripts.gotomeeting.com/#/s/4743afa1bbff50b0128b0190a3d6ad099a32c9ada2df37b2e2f6c61c9915ff83
+- 25-01-2022(morning)
+   - goto meeting link:https://transcripts.gotomeeting.com/#/s/ba345a62fb19a28bbf83b1a3c0d11ac7d460fd1ac3b0ce591b42598153215ce7
+   - second link:https://transcripts.gotomeeting.com/#/s/a67d57360c41e43b9934b1f6daf5cb22107e712c60c94e7054e6a4ce11c9a2be
+   - afternoon session
+   - goto meeting link:https://transcripts.gotomeeting.com/#/s/6a93cef8d0da8fa189d836c6b8a153e66af814605045928e0e3bdbc40452723c
+   - second link:https://transcripts.gotomeeting.com/#/s/e3178e13f811d67f1ba3695a0c7c621b39af4fa64fd95da6b6a2b0bc91fa48d1
+-26-01-2022(morning)
+   - goto meeting link:https://transcripts.gotomeeting.com/#/s/abe175b015c67be1a88b63b5c5a9aa1ef051c832bf8e0668ee147f8f706927a8
+   - afternoon link:https://transcripts.gotomeeting.com/#/s/11fe147840be398b0e1f1c9d30acd2994546970cf4557d3c5437ecf2c2da9ef4
+- 27-01-2022(morning)
+   - goto meeting link:https://transcripts.gotomeeting.com/#/s/2b9a75a75006cfae94ba328296e0d0f3d03f09b60eb3d4c98cadf8e0d6d99588
+   - afternoon link:https://transcripts.gotomeeting.com/#/s/52e971effe99f4d6867d4c87928d079ac0e425de69ab34921d68d06c140d4b4f
+   - second link:https://transcripts.gotomeeting.com/#/s/ab45cc89061af021fe257da7b9bde1fe04b7178c3c6fa53b2b1ebc22600dd668
+
